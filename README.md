@@ -36,19 +36,20 @@ Procedure:
 1) Place the given object on table (Workspace).
 2) Use 2 Jaw Gripper to pick the object from P1 (Pick Point). 
 3)Move to poin1 using move J
-............
 
 
-## Program 
-// Roll no:
 
-//Name:
-MoveJ ................
 
 ## output : 
+![image](https://github.com/Surekaelango/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/127727904/06b12248-d1db-4fae-89e3-656c145cd424)
+![image](https://github.com/Surekaelango/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/127727904/c1e745a4-f2e0-456b-91da-8ce20e2bc7b5)
+![image](https://github.com/Surekaelango/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/127727904/66f67998-293f-4fc2-814d-640656715b65)
+![Uploading image.png…]()
+
 
 
 ## Results: 
+A program for pick and place operations in Doosan Industrial Cobot using DRL studio has been executed successfully.
 
 
 
